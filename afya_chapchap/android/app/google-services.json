@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "721598312784",
+    "project_id": "afyadatabase-b2278",
+    "storage_bucket": "afyadatabase-b2278.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721598312784:android:7930fd69ed4b6e934e7c55",
+        "android_client_info": {
+          "package_name": "com.example.afya_chapchap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721598312784-jd541ktlsdftbuc0g039iadl31r1cntr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.afya_chapchap",
+            "certificate_hash": "704eb1c4e6088a3706b486698770287b99698c40"
+          }
+        },
+        {
+          "client_id": "721598312784-tknq01qi1ge0dvfmv7af4n10bgbdrvni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL2Wt7dF7moOD29e_ElKX9enf9ZhJkqiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721598312784-tknq01qi1ge0dvfmv7af4n10bgbdrvni.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "721598312784-82gbj0af7d91ba7vqps5t1cm8u98qd95.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.afyaChapchap.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
