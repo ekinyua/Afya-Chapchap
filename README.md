@@ -15,7 +15,7 @@ Receive timely updates, prescriptions, and follow-up instructions directly throu
 
 Getting Started:
 
-Clone the repository: git clone https://github.com/makuachteny/mobile-dev.git
+Clone the repository: git clone https://github.com/ekinyua/Afya-Chapchap.git
 
 Navigate to the project directory:
 
